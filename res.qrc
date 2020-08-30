@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/close_hover.png</file>
+        <file>image/close_normal.png</file>
+        <file>image/image.png</file>
+        <file>image/max_hover.png</file>
+        <file>image/max_normal.png</file>
+        <file>image/min_hover.png</file>
+        <file>image/min_normal.png</file>
+        <file>image/normal_hover.png</file>
+        <file>image/normal_normal.png</file>
+        <file>image/danger.png</file>
+        <file>image/error1.png</file>
+        <file>image/error2.png</file>
+        <file>image/open.png</file>
+        <file>image/set.png</file>
+        <file>image/video.png</file>
+        <file>image/repeat.png</file>
+        <file>image/stop.png</file>
+        <file>image/left_arrow_hover.png</file>
+        <file>image/left_arrow_normal.png</file>
+        <file>image/left_arrow_pressed.png</file>
+        <file>image/right_arrow_hover.png</file>
+        <file>image/right_arrow_normal.png</file>
+        <file>image/right_arrow_pressed.png</file>
+        <file>image/green1.png</file>
+        <file>image/red1.png</file>
+        <file>image/port.png</file>
+        <file>image/B1.png</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file>image/stylesheet/stylesheet.qss</file>
+    </qresource>
+</RCC>
